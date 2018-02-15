@@ -1,0 +1,18 @@
+adidas
+Similar tokens:  ['nike', 'adidas', 'reebok', 'sportswear', 'rocawear', 'sportwear', 'reeboks', 'adidap', 'adidas_', 'adidasvipshop']
+Similarities [0.71069056789174023, 1.0, 0.72967154919776034, 0.6970294153304103, 0.61753847961419528, 0.63682718501826141, 0.64345618580150743, 0.64716957048560386, 0.66941993195056593, 0.64265876807507927]
+========================================
+hammer
+Similar tokens:  ['hammer', 'thrower', 'hammers', 'sledgehammer', 'whammer', 'hammerer', 'hammerle', 'hammerly', 'hammerz', 'axehammer']
+Similarities [1.0, 0.57752188742110233, 0.64223963800093098, 0.59828280793125632, 0.58357884091531376, 0.57975461149254037, 0.58313620320722348, 0.58374224761184512, 0.61946771988132732, 0.61298178128199587]
+========================================
+gb
+Similar tokens:  ['gb', 'mb', 'microsd', 'gigabyte', 'dimms', 'microsdhc', 'microsdxc', 'microsd/microsdhc', 'memory,microsdxc', 'microsd/hc']
+Similarities [0.99999999999999989, 0.60905418786717846, 0.60194404023208703, 0.58304593305762009, 0.58152919473903486, 0.6196939690235449, 0.62652901543955686, 0.58126346023839204, 0.6170163208473084, 0.58838144628634936]
+========================================
+
+Similar tokens:  ['hammer', 'pound', 'bolt', 'thrower', 'hammers', 'wrench', 'sledgehammer', 'jackhammer', 'banhammer', 'sledgehammers', 'hammerless', 'hammerich', 'hammerl', 
+'hammerman', 'whammer', 'hammerin', 'hammerer', 'hammerhand', 'hammerfist', 'hammerle', 'swackhammer', 'hammerblow', '#hammer', 'hammerø', 'pighammer', 'sidehammer', 'hammerboy', 
+'hammerel', 'hammerly', 'hammero', 'deathhammer', 'hammertoe', 'shammer', 'hammerz', 'lbhammer', 'blackhammer', 'hammerlocke', 'hammeroid', 'foehammer', 'hammerlee', 'hammerdeath', 
+'throwe', 'ironhammer', 'bodyhammer', 'hammerverse', 'hammerpede', 'hammertoes', 'plaguehammer', 'axehammer', 'hammerth']
+
