@@ -1,7 +1,7 @@
 # Using-pretrained-FastText-model
 
 Here I have two short python code examples where I am using pretrained FastText model. 
-These files are:
+\nThese files are:
 1 - search word_vectors model (in-memory)
 2 - search word_vectors model (out-of-core)
 
